@@ -42,6 +42,7 @@ class MypageFragment : Fragment() {
         }
     }
 
+    
     private fun loadDatas() {
         datas.apply {
             add(
