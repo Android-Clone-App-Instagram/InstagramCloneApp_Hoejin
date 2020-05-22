@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title=" "/>
+    <item android:id="@+id/menu_search"
+        android:icon="@drawable/ic_search"
+        android:title=" "/>
+    <item android:id="@+id/menu_plus"
+        android:icon="@drawable/ic_plus"
+        android:title=" "/>
+    <item android:id="@+id/menu_heart"
+        android:icon="@drawable/ic_heart"
+        android:title=" "/>
+    <item android:id="@+id/menu_person"
+        android:icon="@drawable/ic_person"
+        android:title=" "/>
+</menu>
